@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosopographiai01dessgoog_0001.png"; bbox 0 0 3859 5992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2684 0 3859 280">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2684 0 3859 280">
+     <span class='ocr_line' id='line_1_1' title="bbox 2684 0 3859 280; baseline 0 5712"><span class='ocrx_word' id='word_1_1' title='bbox 2684 0 3859 280; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2690 73 3809 254">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2690 73 3823 254">
+     <span class='ocr_line' id='line_1_2' title="bbox 2690 73 3809 254; baseline -0.004 -23"><span class='ocrx_word' id='word_1_2' title='bbox 2690 202 2691 254; x_wconf 85' lang='lat'>;</span> <span class='ocrx_word' id='word_1_3' title='bbox 2805 80 3361 229; x_wconf 25' lang='lat' dir='ltr'><strong>32344M013</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3421 73 3585 227; x_wconf 55' lang='lat'><strong>333</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3645 94 3809 227; x_wconf 59' lang='lat'><strong>433</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

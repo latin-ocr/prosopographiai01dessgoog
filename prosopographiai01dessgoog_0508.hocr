@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosopographiai01dessgoog_0508.png"; bbox 0 0 3859 5992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1009 2586 2873 2645">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1009 2586 2873 2645">
+     <span class='ocr_line' id='line_1_1' title="bbox 1009 2586 2873 2645; baseline -0.001 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1009 2589 1311 2634; x_wconf 70' lang='lat' dir='ltr'>Pieror&#39;ooho</span> <span class='ocrx_word' id='word_1_2' title='bbox 1338 2588 1843 2633; x_wconf 72' lang='lat' dir='ltr'>Holbuohdruokoroi</span> <span class='ocrx_word' id='word_1_3' title='bbox 1871 2588 2092 2644; x_wconf 59' lang='lat' dir='ltr'>stephan</span> <span class='ocrx_word' id='word_1_4' title='bbox 2122 2586 2293 2632; x_wconf 65' lang='lat' dir='ltr'>adbel</span> <span class='ocrx_word' id='word_1_5' title='bbox 2320 2592 2364 2631; x_wconf 62' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_6' title='bbox 2392 2588 2473 2631; x_wconf 83' lang='lat' dir='ltr'>eo.</span> <span class='ocrx_word' id='word_1_7' title='bbox 2505 2589 2556 2631; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_8' title='bbox 2587 2588 2873 2645; x_wconf 69' lang='lat' dir='ltr'>Alunburg.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
